@@ -13,9 +13,9 @@ public class MyTest {
         MobileCodeWS mobileCodeWS =new MobileCodeWS();
         MobileCodeWSSoap mobileCodeWSSoap = mobileCodeWS.getMobileCodeWSSoap();
 
-        String abc214354657869780 = mobileCodeWSSoap.getMobileCodeInfo("18907734", "");
+        String a42435465867980796342沙发上的贵公司657 = mobileCodeWSSoap.getMobileCodeInfo("189025364577734", "");
 		
-        System.out.println(a42354657);
+        System.out.println(a42435465867980796342沙发上的贵公司657);
 
     }
 }
