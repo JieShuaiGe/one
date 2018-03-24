@@ -21,13 +21,11 @@ public class MyTest {
 		dhusaidhuasihfaosncihwqddjnskjjksauisahoso
 
 
-<<<<<<< .mine
         System.out.println(hahahahhahahah);
 
-=======
 
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 
->>>>>>> .theirs
     }
 }
 }
