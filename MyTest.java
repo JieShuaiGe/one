@@ -17,6 +17,7 @@ public class MyTest {
 		
 		//老夫一个抹布炸死你
         System.out.println(晚上是十分艰苦的烦恼);
+		dhusaidhuasihfaosncihwqddjnskjjksauisahoso
 
     }
 }
