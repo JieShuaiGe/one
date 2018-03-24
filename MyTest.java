@@ -13,10 +13,11 @@ public class MyTest {
         MobileCodeWS mobileCodeWS =new MobileCodeWS();
         MobileCodeWSSoap mobileCodeWSSoap = mobileCodeWS.getMobileCodeWSSoap();
 
-        String abc000 = mobileCodeWSSoap.getMobileCodeInfo("18907734", "");
+        String abc214354657869780 = mobileCodeWSSoap.getMobileCodeInfo("18907734", "");
 		
-        System.out.println(abc000);
+        System.out.println(a42354657);
 
     }
+}
 }
   
