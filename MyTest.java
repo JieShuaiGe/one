@@ -12,9 +12,9 @@ public class MyTest {
     public static void main(String[] args) {
         MobileCodeWS mobileCodeWS =new MobileCodeWS();
         MobileCodeWSSoap mobileCodeWSSoap = mobileCodeWS.getMobileCodeWSSoap();
-        String aaa = mobileCodeWSSoap.getMobileCodeInfo("18907734", "");
+        String abc = mobileCodeWSSoap.getMobileCodeInfo("18907734", "");
 		
-        System.out.println(aaa);
+        System.out.println(abc);
     }
 }
   
