@@ -13,20 +13,16 @@ public class MyTest {
         MobileCodeWS mobileCodeWS =new MobileCodeWS();
         MobileCodeWSSoap mobileCodeWSSoap = mobileCodeWS.getMobileCodeWSSoap();
 
-        
         String hahahahhahahah = mobileCodeWSSoap.getMobileCodeInfo("189025364577734", "");
 		
+
+
+   
+
 		//老夫一个抹布炸死你
-        System.out.println(晚上是十分艰苦的烦恼);
+        System.out.println(晚上是dwtgrh十分艰苦的烦恼);
 
 
-<<<<<<< .mine
-        System.out.println(hahahahhahahah);
-
-=======
-
-
->>>>>>> .theirs
     }
 }
 }
