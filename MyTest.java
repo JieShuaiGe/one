@@ -13,9 +13,9 @@ public class MyTest {
         MobileCodeWS mobileCodeWS =new MobileCodeWS();
         MobileCodeWSSoap mobileCodeWSSoap = mobileCodeWS.getMobileCodeWSSoap();
 
-        String abc = mobileCodeWSSoap.getMobileCodeInfo("18907734", "");
+        String abca = mobileCodeWSSoap.getMobileCodeInfo("18907734", "");
 		
-        System.out.println(abc);
+        System.out.println(abca);
 
     }
 }
