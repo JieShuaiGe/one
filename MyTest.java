@@ -14,7 +14,7 @@ public class MyTest {
         MobileCodeWSSoap mobileCodeWSSoap = mobileCodeWS.getMobileCodeWSSoap();
 
         String hahahahhahahah = mobileCodeWSSoap.getMobileCodeInfo("189025364577734", "");
-		
+		王八蛋ddddddddddddddddddd
 
 
    
