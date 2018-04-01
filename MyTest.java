@@ -20,7 +20,7 @@ public class MyTest {
    
 
 		//老夫一个抹布炸死你
-        System.out.println(晚上是dwtgrh十分艰苦的烦恼);
+        System.out.println(晚上是dwtgrh十分艰苦的烦恼);are you ok???? ok ok ok???
 
 
     }
